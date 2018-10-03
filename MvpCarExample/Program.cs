@@ -36,7 +36,7 @@ namespace MvpCarExample
                     Console.WriteLine($"Angle: {Car.Angle}");
                     Console.WriteLine($"Speed: {Car.Speed}");
                     Console.WriteLine($"X: {Car.X}");
-                    Console.WriteLine($"X: {Car.Y}");
+                    Console.WriteLine($"Y: {Car.Y}");
                     Console.WriteLine($"");
                 }
 
