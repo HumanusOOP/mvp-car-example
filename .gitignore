@@ -1,3 +1,7 @@
 .vs/
 MvpCarExample/bin/
 MvpCarExample/obj/
+MvpCarExampleTests/bin/
+MvpCarExampleTests/obj/
+MvpCarExample.Domain/bin/
+MvpCarExample.Domain/obj/

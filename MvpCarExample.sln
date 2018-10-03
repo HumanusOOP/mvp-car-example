@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvpCarExample", "MvpCarExample\MvpCarExample.csproj", "{398E1698-B4D6-4D18-A1BE-2D25C3F2220A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvpCarExample.Domain", "..\MvpCarExample.Domain\MvpCarExample.Domain.csproj", "{D7A18E53-A567-4C4F-AF3F-07442356952A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvpCarExample.Domain", "MvpCarExample.Domain\MvpCarExample.Domain.csproj", "{D7A18E53-A567-4C4F-AF3F-07442356952A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
