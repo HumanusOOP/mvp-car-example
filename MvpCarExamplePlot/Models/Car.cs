@@ -1,13 +1,7 @@
 ﻿using System;
 
-namespace MvpCarExample.Domain
+namespace MvpCarExamplePlot.Models
 {
-    public class Vector
-    {
-        public double X { get; set; }
-        public double Y { get; set; }
-    }
-
     public class Car
     {
         public float Angle { get; private set; }

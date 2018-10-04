@@ -5,3 +5,6 @@ MvpCarExampleTests/bin/
 MvpCarExampleTests/obj/
 MvpCarExample.Domain/bin/
 MvpCarExample.Domain/obj/
+packages/
+MvpCarExamplePlot/bin/
+MvpCarExamplePlot/obj/
